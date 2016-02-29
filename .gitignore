@@ -1,0 +1,14 @@
+*.class
+
+#folders#
+/target
+/data
+*/META-INF/*
+
+# IntelliJ
+/out
+
+# Packaged files #
+*.jar
+*.war
+*.ear
